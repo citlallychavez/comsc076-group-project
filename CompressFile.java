@@ -5,7 +5,7 @@ public class CompressFile {
 
     public static void main(String[] args) {
         if (args.length != 2) {
-            System.out.println("Usage: java CompressFile sourceFile.txt compressedFile.txt");
+            System.out.println("type java CompressFile sourceFile.txt compressedFile.txt");
             return;
         }
 
