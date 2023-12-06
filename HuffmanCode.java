@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 public class HuffmanCode {
 
     public static void main(String[] args) {
-        // Your existing main method code...
+        
     }
     public static int[] getCharacterFrequency(String text) {
         int[] counts = new int[256];
